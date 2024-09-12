@@ -1,21 +1,117 @@
 <!DOCTYPE html>
-<html lang="nl">
+<html lang="en">
 	
 <head>
 	<meta charset="UTF-8">
-	<meta name="author" content="jouw naam">
+	<meta name="author" content="Mila Massaro">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<title>Howdy FED2425</title>
-	
-	<link href="styles/style.css" rel="stylesheet">
 	<link rel="icon" type="image/svg+xml" href="images/favicon.svg">
+	<link href="styles/style.css" rel="stylesheet">
+	<script defer src="scripts/script.js"></script>
+
+	<title>RCA Records</title>
 </head>
 
 <body>
-	<h1>Howdy FED2425</h1>
+	<!-- Header -->
+	<header>
+		<button>menu*</button>
+		<nav>
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Artists</a></li>
+				<li><a href="#">News</a></li>
+				<li><a href="#">Shop</a></li>
+			</ul>
+		</nav>
+	</header>
 
-	<script defer src="scripts/script.js"></script>
+	<!-- Main -->
+	<h1>Rca records</h1>
+	<img src="images/favicon.svg" alt="...">
+	<h2>New releases</h2>
+	<!-- Vraag: Juiste alt? = uitgebreider! nuttig om te weten-->
+	<!-- IK HEB NU ALLE ALT TEKST IN HET NL >> BETER IN HET ENGELS -->
+	<ul>
+		<li>
+			<p><em>Single</em> becky g - como diablos</p>
+			<img src="images/favicon.svg" alt="Cover van de nieuwe single van de artiest Como Diablos">
+		</li>
+		<li>
+			<p><em>Single</em> foushée - 100 bux</p>
+			<img src="images/favicon.svg" alt="Cover van de nieuwe single van de artiest foushée">
+		</li>
+		<li>
+			<p><em>Single</em> vicotria monét - sos (sex on sight)(ft. usher)</p>
+			<img src="images/favicon.svg" alt="Cover van de nieuwe single van de artiest victoria monét">
+		</li>
+	</ul>
+	<h2>New music videos</h2>
+	<ul>
+		<li>
+			<!-- Vraag: Banner die doorbeweegt >> wat moet dan in de h2? Allemaal verschillende h2's? >> aria-hidden true-->
+			<!-- Hoe moet ik autoplay toegankelijk maken? >> zie marquees-->
+			<h3>The red clay strays - <em>wanna be loved (official video)</em></h3>
+			<button>Watch</button>
+			<video autoplay loop muted>
+				<source src="images/favicon.svg" type="video/mp4">
+			</video>
+		</li>
+		<li>
+			<!-- Ik heb nu een button gebruikt, maar misschien a nodig?? >> ja a-->
+			<h3>Chris Brown - <em>go girlfriend (official video)</em></h3>
+			<button>Watch</button>
+			<video autoplay loop muted>
+				<source src="images/favicon.svg" type="video/mp4">
+			</video>
+		</li>
+		<li>
+			<h3>Childish Gambino - <em>little foot big foot (official video) ft. Young Nudy</em></h3>
+			<button>Watch</button>
+			<video autoplay loop muted>
+				<source src="images/favicon.svg" type="video/mp4">
+			</video>
+		</li>
+	</ul>
+	<h2>Curated by RCA</h2>
+	<button aria-label="previous album"></button>
+	<button aria-label="next album"></button>
+	<ul>
+		<li>
+			<h3><em>Article</em> The real A$AP Rocky</h3>
+			<a href="xxx">Billboard</a>
+			<img src="images/favicon.svg" alt="Portretfoto van de artiest A$AP Rocky">
+		</li>
+		<li>
+			<h3><em>Article</em> Blackpink's LISA is ready to be unleashed</h3>
+			<a href="xxx">Elle us</a>
+			<img src="images/favicon.svg" alt="Foto van artiest LISA">
+		</li>
+	</ul>
+	<ul>
+		<li>
+			<a href="xxx">More about rca</a>
+		</li>
+		<li>
+			<a href="xxx">See our artists</a>
+		</li>
+		<li>
+			<a href="xxx">Shop merch</a>
+		</li>
+	</ul>
+	<h4>Get the latest from RCA.</h4>
+	<!-- Nu hebben ze email die verdwijnt maar dit is niet toegankelijk... -->
+	<form action="#">
+		<!-- <label for="Your email">Your email</label> -->
+		<input type="text" name="youremail" placeholder="Your email">
+	</form>
+	<button>Subscribe</button>
+
+	<!-- Footer -->
+	<footer>
+
+	</footer>
 </body>
 	
 </html>

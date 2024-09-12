@@ -15,17 +15,31 @@
 /*********************/
 :root {
 	/* startje */
-	--color-text:#111;
-	--color-background:#eee;
+	--color-text:#eee;
+	--color-background:#111;
 }
-
-
-
-
 
 /****************/
 /* JOUW STYLING */
 /****************/
+img {
+	width: 25vw;
+}
 
-/* jouw code */
+button {
+	text-transform: uppercase;
+	border-radius: 5em;
+}
+
+h2 {
+	text-transform: uppercase;
+}
+
+p {
+	text-transform: uppercase;
+}
+
+p em {
+	text-transform: capitalize;
+}
 
