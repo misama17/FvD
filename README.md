@@ -105,13 +105,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1           | student 2          | student 3         | student 4        |
-  | ---                 | ---                | ---               | ---              |
-  | Hoe kan ik de       | HTML structuur     | Bij tekst die     | Hoe maak je op   |
-  | css het best        | nakijken           | afegkapt wordt    | juiste manier    |
-  | opdelen? (volgorde) | CSS checken        | met "lees meer"   | gebruik van de   |
-  | HTML structuur      |                    | wel hele tekst?   | screenreader?    |
-  | bekijken?           |
+  | Mila                                                    | Jean-Carlos                  | Teun                             | Philene                                                  |
+  | ---                                                     | ---                          | ---                              | ---                                                      |  
+  | Hoe kan ik de css het best opdelen? (volgorde)          | HTML structuur nakijken      | Bij tekst die afegkapt wordt     | Hoe maak je op juiste manier gebruik van de screenreader?|
+  | HTML structuur bekijken?                                | CSS checken                  | met "lees meer" wel hele tekst?  |                                                          |
+  |                                                         |                              |                                  |                                                          |
+  |                                                         |                              |                                  |                                                          |
+  |                                                         |
 
 Specifieke vragen:
 .Mijn H1 komt over mijn hamburgermenu heen >> hoe oplossen? 
