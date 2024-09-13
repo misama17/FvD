@@ -105,12 +105,18 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | student 1           | student 2          | student 3         | student 4        |
+  | ---                 | ---                | ---               | ---              |
+  | Hoe kan ik de       | HTML structuur     | Bij tekst die     | Hoe maak je op   |
+  | css het best        | nakijken           | afegkapt wordt    | juiste manier    |
+  | opdelen? (volgorde) | CSS checken        | met "lees meer"   | gebruik van de   |
+  | HTML structuur      |                    | wel hele tekst?   | screenreader?    |
+  | bekijken?           |
 
+Specifieke vragen:
+.Mijn H1 komt over mijn hamburgermenu heen >> hoe oplossen? 
+.Hoe werkt de navigatie van de screenreader? >> hoe kan ik ervoor zorgen dat mijn site goed navigeerbaar is met de screenreader? (ik heb bijna geen p en vooral plaatjes...)
+.De afbeelding is erg groot (breed) en overflow hidden werkt niet... Hoe zorg ik ervoor dat deze afbeelding wordt afgesneden? 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
