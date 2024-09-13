@@ -107,8 +107,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Mila                                                    | Jean-Carlos                  | Teun                             | Philene                                                  |
   | ---                                                     | ---                          | ---                              | ---                                                      |  
-  | Hoe kan ik de css het best opdelen? (volgorde)          | HTML structuur nakijken      | Bij tekst die afgakapt wordt     | Hoe maak je op juiste manier gebruik van de screenreader?|
-  | HTML structuur bekijken?                                | CSS checken                  | met "lees meer" wel hele tekst?  |                                                          |
+  | Hoe kan ik de css het best opdelen? (volgorde)          | HTML structuur nakijken      | Bij tekst die afgakapt wordt met "lees meer" wel hele tekst?     | Hoe maak je op juiste manier gebruik van de screenreader?|
+  | HTML structuur bekijken?                                | CSS checken                  |                                  |                                                          |
   | Hoe werkt de navigatie van de screenreader?             |
 
 Specifieke vragen:
