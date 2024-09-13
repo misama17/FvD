@@ -111,8 +111,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   | HTML structuur bekijken?                                | CSS checken                  |                                  |                                                          |
   | Hoe werkt de navigatie van de screenreader?             |
 
-Specifieke vragen:
-.Mijn H1 komt over mijn hamburgermenu heen >> hoe oplossen? 
+Specifieke vragen: 
 .Hoe werkt de navigatie van de screenreader? >> hoe kan ik ervoor zorgen dat mijn site goed navigeerbaar is met de screenreader? (ik heb bijna geen p en vooral plaatjes...)
 .De afbeelding is erg groot (breed) en overflow hidden werkt niet... Hoe zorg ik ervoor dat deze afbeelding wordt afgesneden? 
 .Moet je wél sections hebben? Of moest je dit juist vermijden?
@@ -124,6 +123,10 @@ Specifieke vragen:
 
   - ./ aan images toevoegen als img niet upload
   - HTML structuur bepaalt hoe makkelijk er genavigeerd kan worden
+  - Ook bij de automatische carousel is het van de HTML structuur afhankelijk welke voorgelezen wordt.
+  - Ja, je moet sections hebben
+  - Images downloaden!!!
+  - Screenreader kan makkelijk van header naar header
 
 </details>
 
