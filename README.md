@@ -117,6 +117,7 @@ Specifieke vragen:
 .De afbeelding is erg groot (breed) en overflow hidden werkt niet... Hoe zorg ik ervoor dat deze afbeelding wordt afgesneden? 
 .Moet je wél sections hebben? Of moest je dit juist vermijden?
 .Kan images het best downloaden of door middel van een link bij de source toevoegen?
+.Ik heb een automatische carousel op mijn website; Hoe zorg ik ervoor dat de juiste tekst op het juiste moment wordt gelezen met de screenreader? 
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
