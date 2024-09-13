@@ -117,6 +117,7 @@ Specifieke vragen:
 .Mijn H1 komt over mijn hamburgermenu heen >> hoe oplossen? 
 .Hoe werkt de navigatie van de screenreader? >> hoe kan ik ervoor zorgen dat mijn site goed navigeerbaar is met de screenreader? (ik heb bijna geen p en vooral plaatjes...)
 .De afbeelding is erg groot (breed) en overflow hidden werkt niet... Hoe zorg ik ervoor dat deze afbeelding wordt afgesneden? 
+.Moet je wél sections hebben? Of moest je dit juist vermijden?
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
