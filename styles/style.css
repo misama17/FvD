@@ -7,24 +7,130 @@
 
 
 
-
-
-
 /*********************/
 /* CUSTOM PROPERTIES */
 /*********************/
 :root {
-	/* startje */
 	--color-text:#eee;
-	--color-background:#111;
+	--color-background:#0F0E0E;
+	--color-transparant: rgba(252, 253, 248, 0.06275);
+	--color-banner-pink: #FFA8BD;
+	--color-banner-orange: #D98100;
+	--color-banner-redorange: #FF4A23;
+	--color-hover-orange: #D98100;
+	--color-text-lime: #CDF851;
+	--color-wheel-grey: #B0A580;
+	--color-wheel-white: #FCFDF8;
+	--color-wheel-lime: #CDF851;
+	--color-background-redorange: #FF4A23;
 }
 
+
+
+
+
 /****************/
-/* JOUW STYLING */
+/* ALGEMENE STIJLEN */
 /****************/
-img {
-	width: 25vw;
+body {
+	background-color: var(--color-background);
+	color: var(--color-text);
+	margin: 0;
 }
+
+
+
+
+
+/******************************************************/
+/* styling voor de small-screen versie van de website */
+/******************************************************/
+
+/*************/
+/* DE HEADER */
+/*************/
+header {
+	/* Hoogte van header bepalen */
+	min-height: 4em;
+	padding: .5em;
+	border-bottom: 2px solid var(--color-transparant);
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	
+	position: sticky;
+	top: 0;
+}
+
+header a {
+	padding: 1em 0;
+	color: var(--color-text);
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 2.2em;
+}
+
+nav {
+	order: 1;
+
+	display: grid;
+	gap: 2em;
+	align-content: start;
+	
+	position: fixed;
+	z-index: 2;
+	inset: 0;
+	translate: 0 100%;
+	transition: .3s;
+}
+
+nav button {
+	position: relative;
+	z-index: 1;
+
+  	align-self: start;
+  	justify-self: end;
+	margin: 2em;
+}
+
+nav ul { 
+	list-style-type:none;
+	line-height: 5em;
+}
+
+nav.toonMenu {
+	translate: 0% 0%;
+	background-color: var(--color-background);
+}
+  
+nav li {
+	flex-basis: 100vw;
+	font-size: 2em;
+}
+
+
+
+
+
+/*******************/
+/* COVER SLIDEHSOW */
+/*******************/
+h1 + img {
+	width: 100%;
+	margin: 0;
+	overflow: hidden;
+	position: relative;
+	z-index: -1;
+	top: 0;
+}
+
+h1 {
+	position: absolute;
+}
+
+
+
 
 button {
 	text-transform: uppercase;
