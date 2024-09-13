@@ -107,11 +107,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   | Mila                                                    | Jean-Carlos                  | Teun                             | Philene                                                  |
   | ---                                                     | ---                          | ---                              | ---                                                      |  
-  | Hoe kan ik de css het best opdelen? (volgorde)          | HTML structuur nakijken      | Bij tekst die afegkapt wordt     | Hoe maak je op juiste manier gebruik van de screenreader?|
+  | Hoe kan ik de css het best opdelen? (volgorde)          | HTML structuur nakijken      | Bij tekst die afgakapt wordt     | Hoe maak je op juiste manier gebruik van de screenreader?|
   | HTML structuur bekijken?                                | CSS checken                  | met "lees meer" wel hele tekst?  |                                                          |
-  |                                                         |                              |                                  |                                                          |
-  |                                                         |                              |                                  |                                                          |
-  |                                                         |
+  | Hoe werkt de navigatie van de screenreader?             |
 
 Specifieke vragen:
 .Mijn H1 komt over mijn hamburgermenu heen >> hoe oplossen? 
