@@ -58,7 +58,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
-
+  . Reageert niet goed op mobiele telefoon >> doordat je "horizontaal" kan scrollen loopt hij vast.
+  . De meeste images hebben geen alt tekst of aria-hidden, terwijl ze wel belangrijk zijn.
+  . Decoratieve images hebben ook geen alt-tekst, wat wel goed is.
+  . Er is een banner die voorbij blijft komen, maar bij gebruik van een screenreader wordt die tekst 5x achter elkaar opgelezen.
+  . Er zijn veel animaties, wat niet echt toegankelijk is en geen manier om deze uit te zetten. Op de instellingen op de laptop wordt niet gereageerd door de site >> niet toegankelijk bij default.
+  . Er is niet goed door de site te navigeren bij gebruik van screenreader.
+  . Slordige HTML met veel divs, uitgecommende stukken code...
+  . Autoplay van video's wanneer je hovert (wat niet toegankelijk is).
+  . Website is niet erg responsive.
 </details>
 
 
@@ -69,14 +77,14 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
-
+  <img src="readme-images/breakdown_pagina_home.png" width="375px" alt="breakdown van de hele pagina">
+  
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/breakdown_navigatie.png" width="375px" alt="breakdown van een dynamisch deel">
 
   ### wellicht nog een dynamisch deel (bijv filter): 
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
-
+  *** nog niet aan toegekomen
 </details>
 
 
