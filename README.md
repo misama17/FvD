@@ -150,7 +150,7 @@ Specifieke vragen:
   | ---                  | ---                | ---          | ---              |
   | CSS verwijzingen     | en dit             | en ik dit    | en dan ik dat    |
   | Upload Github        | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...                  | ...                | ...          | ...              |
+  | before en after      | ...                | ...          | ...              |
 
 
   ### Verslag van meeting
