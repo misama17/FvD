@@ -156,10 +156,11 @@ Specifieke vragen:
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Ik gebruik de juiste manier van verwijzen in css, maar misschien problemen wanneer ik de footer ga maken.
+  - Github desktop afsluiten en openen om error te verhelpen
+  - Het is een goed idee om bij een probleem eerst goed naar de structuur van de html te kijken voordat je naar de css gaat kijken.
+  - Eerst zorgen dat de basis goed is, voordat je de echt moeilijke animaties gaat uitwerken. Dit kan op het einde.
+
 
 </details>
 
